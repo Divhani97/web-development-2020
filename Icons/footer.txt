@@ -1,0 +1,61 @@
+<br/><br/><br/><br/><br/><br/><br/>v<br/><br/><br/><br/><br/><br/><br/><br/><br/>v<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<table border="1"bgcolor="" bordercolor="" cellspacing="0" width="100%"> 
+    <tbody>
+        <tr>
+            <tr> 
+             <th>
+                 <font color="white"> contact us
+                  <ol type="1">
+                       
+                        <il>021224567<br/></il> 
+                        <il>wootCenter@work.co.za<br/></il>
+                        <il>+27-545-8866<br/></il>
+                        
+                    </ol>
+                 </font>
+             </th>
+             <th>
+                  <font color="white" size="2" align="left"> connect
+                 
+                  <ol type="1">
+                      <img src="Icons/gmail.png" alt=""/>     
+                      <br/>
+                      <img src="Icons/instagram.png" alt=""/>
+                      <br/>
+                      <img src="Icons/twitter.png" alt=""/>
+                      <br/>
+                      <img src="Icons/whatsapp.png" alt=""/>
+                      <br/>
+                      <img src="Icons/youtube.png" alt=""/>
+                      
+                   
+                    </ol>
+                 </font>
+             </th>
+              <th>
+                 <font color="white">Location
+                 <img src="Icons/map.png" alt=""/>
+                 </font>
+             </th>
+        </tr>  
+        <tr>
+        <tr bgcolor="">
+            <th>
+                 <font color="white">&#169; </font>
+             </th>
+              <th>
+                 <font color="white">&#8482; </font>
+             </th>
+             
+        </tr>  
+        
+    </tbody> 
+</table>
+    
+
+
+
+
+
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
